@@ -1,0 +1,82 @@
+# Ignore Unity specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+AssetStoreTools*
+
+# Ignore auto-generated VS/MD/Consulo files
+ExportedObj/
+.consulo/
+.vscode/
+.vscode/*
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Ignore Unity Asset Store tools
+AssetStoreTools*
+
+# Ignore FaceTracking specific files
+FaceTracking/Generated/
+FaceTracking/Logs/
+FaceTracking/Temp/
+FaceTracking/Build/
+FaceTracking/Builds/
+FaceTracking/MemoryCaptures/
+FaceTracking/AssetStoreTools*
+
+# Ignore build artifacts
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.buildlog
+*.ipch
+*.obj
+*.pch
+*.pdb
+*.rsp
+*.sdf
+*.tlog
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vspscc
+*.vssscc
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Ignore Visual Studio Code files
+.vscode/    
+*.code-workspace
+
+# Ignore Other
+FaceTracking Templates/UserSettings/
+FaceTracking Templates/ProjectSettings/
+FaceTracking Templates/Packages/
+FaceTracking Templates/Assets/XR/
+FaceTracking Templates/Assets/*.meta
